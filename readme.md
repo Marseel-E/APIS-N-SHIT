@@ -1,12 +1,12 @@
 # Setup
 To use the API(s) you must generate your own `secret keys`. 
 > Here's a list of links for each API to make your life easier :smile:
-> - [Instagram](https://google.com) 
-> - [geodb](https://google.com)
-> - [google-search](https://google.com)
-> - [google-translate](https://google.com)
-> - [IMDb](https://google.com)
-> - [Shazam](https://google.com)
+> - Instagram 
+> - geodb
+> - google-search
+> - google-translate
+> - [IMDb](https://rapidapi.com/apidojo/api/imdb8/)
+> - Shazam
 > - [web-search](https://rapidapi.com/contextualwebsearch/api/web-search/)
 
 Then you have to place the `secret keys` in the [config.json](config.json) file.
