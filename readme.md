@@ -7,7 +7,7 @@ To use the API(s) you must generate your own `secret keys`.
 > - [google-translate](https://google.com)
 > - [IMDb](https://google.com)
 > - [Shazam](https://google.com)
-> - [web-search](https://google.com)
+> - [web-search](https://rapidapi.com/contextualwebsearch/api/web-search/)
 
 Then you have to place the `secret keys` in the [config.json](config.json) file.
 ```json
