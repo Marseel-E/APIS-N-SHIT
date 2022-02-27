@@ -16,4 +16,4 @@ Then you have to place the `secret keys` in the [config.json](config.json) file.
 }
 ```
 
-Finally run the file of your desired [API](/API(S)) and enjoy.
+Finally run the file of your desired API and enjoy.
